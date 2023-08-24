@@ -23,8 +23,6 @@
 <a href="www.linkedin.com/in/ømar-gamal-98ab57219" target="_blank"><img src="https://img.shields.io/badge/-Omar%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 
-![MongoDB](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=Sql)&nbsp;
-![ExpressJS](https://img.shields.io/badge/-Entity%20Framework%20core-05122A?style=flat&logo=Entity&Framework&core)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
