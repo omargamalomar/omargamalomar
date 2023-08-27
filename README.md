@@ -10,9 +10,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
 </p> 
 
-- 🏢 I'm a Full Stack Developer
+- 🏢 I'm a Front-End Developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 experience with Java Script , Node JS , and MongoDB , or anything related to web development.
+- 💬 experience with HTML, CSS, Java Script , Node JS , and MongoDB , or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
